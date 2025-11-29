@@ -63,4 +63,4 @@ Contributions, issues, and feature requests are welcome!Feel free to fork this r
 
 
 ## 🙏 Credits
-This game was created by following a tutorial by [Rustlang Project: Snake Game - Tensor Programming][(URL to the tutorial](https://www.youtube.com/watch?v=DnT_7M7L7vo&t=569s)). Many thanks for the clear guidance and inspiration!
+This game was created by following a tutorial by [Rustlang Project: Snake Game - Tensor Programming](https://www.youtube.com/watch?v=DnT_7M7L7vo&t=569s). Many thanks for the clear guidance and inspiration!
