@@ -45,7 +45,7 @@ You can tweak game parameters in game.rs:
 
 ## 📸 Screenshots
 <img width="310" height="322" alt="image" src="https://github.com/user-attachments/assets/f70ef45b-f44c-4a1f-8ed3-d69955a71b08" />
-<img width="312" height="322" alt="image" src="https://github.com/user-attachments/assets/ed369613-1aa5-4631-aa92-258420541287" />
+<!-- <img width="312" height="322" alt="image" src="https://github.com/user-attachments/assets/ed369613-1aa5-4631-aa92-258420541287" /> -->
 <img width="307" height="321" alt="image" src="https://github.com/user-attachments/assets/647a5e39-8680-48da-9445-76a5692e8175" />
 <img width="313" height="322" alt="image" src="https://github.com/user-attachments/assets/18db1866-6283-4dee-9f7e-5cdc4ba8b34e" />
 
